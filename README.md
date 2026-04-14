@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Tela do meu Curriculum Vitae](images/Tela_curriculo)
+![Tela do meu Curriculum Vitae](public/Tela_curriculo)
